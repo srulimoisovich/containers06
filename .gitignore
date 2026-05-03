@@ -1,0 +1,4 @@
+# Ignore files and directories
+mounts/site/*
+!mounts/site/index.php
+!mounts/site/styles.css
